@@ -1,0 +1,6 @@
+UR -> User registry
+
+Error UR01: Error de registro al generar un usuario, dicho usuario no pudo ser generado porque todas las posibles
+combinaciones han sido tomadas por el sistema. Se recomienda guiar en el registro al usuario y asegurarse de entrar las credenciales correctas.
+Nota: Este error no debería suceder, ya que debería asignar su nombre, apellido y cedula como usuario.
+
